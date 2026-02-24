@@ -94,5 +94,5 @@ Replicación del análisis anterior utilizando exclusivamente SQL en PostgreSQL,
 
 ⭐ **Si ves algo que te interese o quieres colaborar, no dudes en contactarme. ¡Estoy abierto a oportunidades, conexiones y proyectos desafiantes!** ⭐
 
-> “La práctica y la perseverancia me acercan cada día más a mi objetivo: ser un gran desarrollador.” 🚀
+> “La constancia y el aprendizaje continuo convierten los datos en oportunidades.” 🚀
 
