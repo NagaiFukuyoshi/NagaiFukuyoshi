@@ -70,9 +70,9 @@ Replicación del análisis anterior utilizando exclusivamente SQL en PostgreSQL,
 
 ## 📈 **Estadísticas de GitHub**
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=NagaiFukuyoshi&show_icons=true&theme=radical&include_all_commits=true)
+![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=NagaiFukuyoshi&cc=000&tc=fff&ic=fff&bc=000)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=NagaiFukuyoshi&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NagaiFukuyoshi&layout=compact&theme=radical)
 
 ---
 
