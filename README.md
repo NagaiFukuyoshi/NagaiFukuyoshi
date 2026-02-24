@@ -1,8 +1,8 @@
 # 👋 ¡Hola! Soy Kevin Andres Arango Vasquez
 
-**Tecnólogo en Análisis y Desarrollo de Software** en formación, con enfoque profesional en **Big Data, Data Analytics e Ingeniería de Datos**. Me apasiona transformar datos en información valiosa para la toma de decisiones.
+**Teccnólogo en Análisis y Desarrollo de Software** en formación, con una base sólida en desarrollo web y una transición activa hacia el **análisis y procesamiento de datos (Big Data)**.
 
-Actualmente, estoy en búsqueda de mi primera oportunidad como **Data Analyst Jr., Practicante de Analítica o roles afines**, donde pueda aplicar mis conocimientos y seguir creciendo en el mundo de los datos.
+Me apasiona convertir datos en información útil, construir soluciones escalables y entender cómo fluyen los datos desde la fuente hasta la toma de decisiones. Actualmente busco **oportunidades de práctica profesional** donde pueda aportar valor mientras sigo fortaleciendo mis habilidades técnicas.
 
 ---
 
@@ -86,7 +86,6 @@ Replicación del análisis anterior utilizando exclusivamente SQL en PostgreSQL,
 
 📍 **Ubicación:** Valle del Cauca - Colombia  
 📧 **Email:** [vaskev1116@gmail.com](mailto:vaskev1116@gmail.com)  
-📱 **Telefono:** +57 3175521561
 💼 **LinkedIn:** [linkedin.com/in/kevin-vasquez-73547a29b](https://www.linkedin.com/in/kevin-vasquez-73547a29b)  
 🐙 **GitHub:** [github.com/NagaiFukuyoshi](https://github.com/NagaiFukuyoshi)
 
