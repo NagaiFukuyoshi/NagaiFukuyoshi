@@ -72,7 +72,7 @@ Replicación del análisis anterior utilizando exclusivamente SQL en PostgreSQL,
 
 ![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=NagaiFukuyoshi&cc=000&tc=fff&ic=fff&bc=000)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NagaiFukuyoshi&layout=compact&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NagaiFukuyoshi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
