@@ -24,7 +24,7 @@ Ejercicio técnico simulando un caso real de entrevista para Data Analyst, traba
   - Limpieza y transformación de datos con justificaciones técnicas
   - Extracción de insights de negocio a partir de datos limitados
   - Documentación profesional del proceso en GitHub
-- **🔗 Repositorio:** [RetailNova Análisis](https://github.com/NagaiFukuyoshi/retailnova-entrevista-analisis)
+- **🔗 Repositorio:** [RetailNova Análisis](https://github.com/NagaiFukuyoshi/retailnova-entrevista-analisisis)
 
 ### 🗄️ **Análisis con SQL - Superstore**
 Replicación del análisis anterior utilizando exclusivamente SQL en PostgreSQL, incluyendo consultas avanzadas con window functions y CTEs.
